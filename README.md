@@ -27,8 +27,6 @@
 - [Front End Development](#front-end-development)
 - [Security](#security)
 - [Books](#books)
-- [Videos](#videos)
-- [Miscellaneous](#miscellaneous)
 
 <br>
 
@@ -104,6 +102,12 @@
 ## Serverless Architecture
 - [serverless architecture](https://thenewstack.io/serverless-architecture-five-design-patterns) - Serverless Architecture: Five Design Patterns.
 - [solving problems in serverless](https://freecontent.manning.com/patterns-for-solving-problems-in-serverless-architectures) - Patterns for Solving Problems in Serverless Architectures.
+- [serverless patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/) - serverless microservice patterns for aws.
+- [serverless-reference-architectures](https://www.jeremydaly.com/serverless-reference-architectures//) - serverless microservice patterns with deployment scripts.
+
+
+
+
 
 ## Micro services & Distributed Systems
 - [microservice patterns](http://microservicepatterns.org) - A community site dedicated to documenting a master patterns catalog.
